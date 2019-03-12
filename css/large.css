@@ -1,0 +1,16 @@
+@media only screen and (min-width: 900px) and (max-width: 1349px) {
+
+  #greeting {
+    font-size: 48px;
+    padding: 40px;
+  }
+
+  #clock {
+    width: 450px;
+  }
+
+  header h1 {
+    padding: 10px;
+  }
+
+}
